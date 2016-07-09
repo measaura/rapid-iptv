@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1 UA"  group-title="MALAYSIA",TV1
+http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
+http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png" tvg-name="TVi"  group-title="MALAYSIA",TVi
+http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
+http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
+http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.aljazeera.com/mrItems/Assets/Images/NewArticle/a-j-e-overlay-copy.png" tvg-name="AL JAZEERA"  group-title="EGYPT",AL JAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
