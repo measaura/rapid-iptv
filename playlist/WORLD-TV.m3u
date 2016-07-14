@@ -1,0 +1,1219 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Playlist URL: is.gd/marcelloss[/COLOR]
+ftp://##
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR white]German TVS ACCESS ONLY VIA VPN WITH SWISS IP[/COLOR]
+ftp://##
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR white]Go to is.gd/zenvpn - Get your free 3 months premium service. Zenmate VPN promotion still is available.[/COLOR]
+ftp://##
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Download to new Rytec XMLTV Downloader Add-on for IPTV Simple Client. Go to vurl.com/31gV9 for installation details. IPTVSAGA (Marcello)[/COLOR]
+ftp://##
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR orangered]3+ HD[/COLOR]
+http://62.65.140.151:80/session/e6462bf6-48f8-11e6-b4f8-005056bc49ac/nvnv5a/1/1013/index.m3u8?token=0807ac8c0d350b6110062ffeb0c103c3_1468500851_1468500851&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
+http://62.65.140.154:80/session/e6d62dc8-48f8-11e6-9c3e-005056bc49ac/nvnv5a/1/1117/index.m3u8?token=572fbae454d5e21d4dc8b438a91ccbac_1468500853_1468500853&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR orangered]4+ HD[/COLOR]
+http://62.65.140.154:80/session/e945f1c4-48f8-11e6-b25e-005056bc49ac/nvnv5a/1/1031/index.m3u8?token=695f6f598366d6534cebcf4fade35bfd_1468500857_1468500857&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR orangered]5+ HD[/COLOR]
+http://62.65.140.213:80/session/e9d9c340-48f8-11e6-8cc1-005056bc06d1/nvnv5a/1/1047/index.m3u8?token=6461b2a31726053160e244c61742c894_1468500858_1468500858&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="AlJazeera.nws" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera EN[/COLOR]
+http://62.65.140.151:80/session/eaa25f80-48f8-11e6-b052-005056bc1a52/nvnv5a/2/4013/index.m3u8?token=cab41525fadd4cc9bc557a782074cf82_1468500859_1468500859&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="AnixeHD.de" group-title="Deutsch" tvg-logo="0066.png",[COLOR orangered]Anixe HD[/COLOR]
+http://62.65.140.216:80/session/eb5ffa04-48f8-11e6-8cc1-005056bc06d1/nvnv5a/1/1134/index.m3u8?token=9ac560b8e6110a7e0e4173c564ec6d78_1468500861_1468500861&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]ARD HD[/COLOR]
+http://62.65.140.153:80/session/ebf4ee70-48f8-11e6-b25e-005056bc49ac/nvnv5a/2/1165/index.m3u8?token=710e76b947046b85f928b4b0d18cd243_1468500862_1468500862&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARTE.fr" group-title="French" tvg-logo="0215.png",[COLOR orange]Arte HD FR[/COLOR]
+http://62.65.140.153:80/session/ecad0c94-48f8-11e6-9384-005056bc49ac/nvnv5a/2/2029/index.m3u8?token=46ff176c0123eaa6f9d4dd41ad63cd68_1468500863_1468500863&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orangered]Arte HD[/COLOR]
+http://62.65.140.219:80/session/ed1bf6c2-48f8-11e6-b4f8-005056bc49ac/nvnv5a/1/1150/index.m3u8?token=4b165ff8f1bca78349c5130f1849e0f1_1468500864_1468500864&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBC1.uk" group-title="English" tvg-logo="0402.png",[COLOR orange]BBC1 HD EN[/COLOR]
+http://62.65.140.213:80/session/edd41194-48f8-11e6-9384-005056bc49ac/nvnv5a/2/4017/index.m3u8?token=cde9924ad835f971735d505daea1e792_1468500865_1468500865&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBC2.uk" group-title="English" tvg-logo="0404.png",[COLOR orange]BBC2 HD EN[/COLOR]
+http://62.65.140.218:80/session/ee790604-48f8-11e6-8d2c-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=0e38604a28611a7e5ff4b8d79235992e_1468500866_1468500866&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBC3.uk" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC3 EN[/COLOR]
+http://62.65.140.148:80/session/86a376c6-bfce-11e5-88c5-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=773c6fd61b661903c1769a7167bb99f2_1453419344_1453419344&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News EN[/COLOR]
+http://62.65.140.215:80/session/ef2e8330-48f8-11e6-8d2c-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=7b75bf730c8cdeb42a8f2c1d41e591d1_1468500867_1468500867&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BR.de" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
+http://62.65.140.150:80/session/efb75d54-48f8-11e6-9c3e-005056bc49ac/nvnv5a/1/1112/index.m3u8?token=ed4987f1b6e3c0aa2f53a9260d0b0a7b_1468500868_1468500868&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="canal9.fr" group-title="French" tvg-logo="0242.png",[COLOR gold]Canal 9 FR[/COLOR]
+http://62.65.140.214:80/session/2f2d0e66-48f9-11e6-b25e-005056bc49ac/nvnv5a/2/2041/index.m3u8?token=73a72ce4bf01985f204f110adff72f0f_1468500974_1468500974&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="canalalpha.fr" group-title="French" tvg-logo="0246.png",[COLOR orange]Canal Alpha FR[/COLOR]
+http://62.65.140.155:80/session/f06c312a-48f8-11e6-8785-005056bc1a52/nvnv5a/2/2045/index.m3u8?token=7caa511493cfde3c88f39bde6022a753_1468500869_1468500869&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Canale5.it" group-title="Italian" tvg-logo="0614.png",[COLOR orange]Canale 5 HD IT[/COLOR]
+http://62.65.140.215:80/session/f119cd9e-48f8-11e6-957f-005056bc06d1/nvnv5a/2/3026/index.m3u8?token=60f1c26dd86c800453ef60d788ec2926_1468500870_1468500870&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="English" tvg-logo="0414.png",[COLOR orange]Channel 4 HD EN[/COLOR]
+http://62.65.140.155:80/session/f217ce9e-48f8-11e6-9c3e-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=67081761779ce95cbbe74149d4dbb020_1468500871_1468500871&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="chtv.ch" group-title="Deutsch" tvg-logo="0146.png",[COLOR orangered]CH TV HD[/COLOR]
+http://62.65.140.152:80/session/f2ee8d6c-48f8-11e6-bb15-005056bc06d1/nvnv5a/1/1032/index.m3u8?token=a85590d1022f60365b529fcd2eaddce3_1468500873_1468500873&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="cielo.it" group-title="Italian" tvg-logo="0000.png",[COLOR orange]Cielo IT[/COLOR]
+http://62.65.140.215:80/session/ff611f6a-48f8-11e6-b4f8-005056bc49ac/nvnv5a/2/3041/index.m3u8?token=1eb8bb1b14f48464d23def1e70ac042c_1468500891_1468500891&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="CNBC.nws" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC EN[/COLOR]
+http://62.65.140.152:80/session/00323c8a-48f9-11e6-b25e-005056bc49ac/nvnv5a/2/4001/index.m3u8?token=9482c19142bb9f197c556aaea3b8eacf_1468500895_1468500895&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="CNN.nws" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN EN[/COLOR]
+http://62.65.140.213:80/session/00c1ec2c-48f9-11e6-957f-005056bc06d1/nvnv5a/2/4002/index.m3u8?token=5c91e1f9420598ec9d3bdf77e6bdcfc5_1468500897_1468500897&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Direct8.fr" group-title="French" tvg-logo="0216.png",[COLOR orange]D8 FR[/COLOR]
+http://62.65.140.217:80/session/016c4460-48f9-11e6-8cc1-005056bc06d1/nvnv5a/2/2018/index.m3u8?token=c1440ec4ad0a45b71a92d2d7aa59a50e_1468500898_1468500898&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" group-title="Deutsch" tvg-logo="0065.png",[COLOR orangered]Deluxe Music[/COLOR]
+http://62.65.140.153:80/session/0284c462-48f9-11e6-b25e-005056bc49ac/nvnv5a/1/1153/index.m3u8?token=e314d6f69be835a3ae5d31621698ac46_1468500899_1468500899&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="disneychannel.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR orangered]Disney Channel[/COLOR]
+http://62.65.140.219:80/session/042520dc-48f9-11e6-9009-005056bc06d1/nvnv5a/1/1124/index.m3u8?token=8799d05ef5cde33e88c373917af87c7f_1468500902_1468500902&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orangered]DMAX[/COLOR]
+http://62.65.140.212:80/session/0c4746dc-48f9-11e6-b052-005056bc1a52/nvnv5a/1/1018/index.m3u8?token=6581a76f6b20553e211acf8edaa24109_1468500907_1468500907&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="English" tvg-logo="0035.png",[COLOR orange]EuroNews EN[/COLOR]
+http://62.65.140.153:80/session/0d039cec-48f9-11e6-b4f8-005056bc49ac/nvnv5a/1/104903/index.m3u8?token=60e897ca274e19286767d081887cd906_1468500917_1468500917&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="French" tvg-logo="0237.png",[COLOR orange]EuroNews FR[/COLOR]
+http://62.65.140.152:80/session/0dbf88d0-48f9-11e6-9c3e-005056bc49ac/nvnv5a/1/104901/index.m3u8?token=e9b93b18569c601b17bf9313acf28508_1468500918_1468500918&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="Italian" tvg-logo="0237.png",[COLOR orange]EuroNews IT[/COLOR]
+http://62.65.140.153:80/session/0eabfa9e-48f9-11e6-8d2c-005056bc1a52/nvnv5a/1/104902/index.m3u8?token=79bc2f673aa5ec0a2c8204a2edb2633f_1468500920_1468500920&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="Deutsch" tvg-logo="0035.png",[COLOR orangered]EuroNews DE[/COLOR]
+http://62.65.140.154:80/session/0f874bc6-48f9-11e6-8d2c-005056bc1a52/nvnv5a/1/1049/index.m3u8?token=a60b19942ea0f0130099d2411c2d7159_1468500921_1468500921&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR orangered]EuroSport[/COLOR]
+http://62.65.140.215:80/session/100232b4-48f9-11e6-8cc1-005056bc06d1/nvnv5a/1/1051/index.m3u8?token=bc90d1d5e556c9341e3d258c7fcfc007_1468500922_1468500922&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Film4.uk" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4 EN[/COLOR]
+http://62.65.140.212:80/session/10ce527c-48f9-11e6-9384-005056bc49ac/nvnv5a/2/4023/index.m3u8?token=12c5ad78673982db64ebec6e2dd9dee1_1468500923_1468500923&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France2.fr" group-title="French" tvg-logo="0204.png",[COLOR orange]France 2 HD FR[/COLOR]
+http://62.65.140.155:80/session/11a0c112-48f9-11e6-9c3e-005056bc49ac/nvnv5a/2/2028/index.m3u8?token=826c22497c3e80f8a443d76ba42c5427_1468500925_1468500925&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France3.fr" group-title="French" tvg-logo="0205.png",[COLOR orange]France 3 FR[/COLOR]
+http://62.65.140.150:80/session/149859e8-48f9-11e6-8cc1-005056bc06d1/nvnv5a/2/2008/index.m3u8?token=b0a4f5be6b37e66a2b1e75e16c0feebd_1468500927_1468500927&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France4.fr" group-title="French" tvg-logo="0221.png",[COLOR orange]France 4 FR[/COLOR]
+http://62.65.140.218:80/session/1ba0eade-48f9-11e6-8d2c-005056bc1a52/nvnv5a/2/2009/index.m3u8?token=3114a4496629d56f768279de8069d878_1468500931_1468500931&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France5.fr" group-title="French" tvg-logo="0207.png",[COLOR orange]France 5 FR[/COLOR]
+http://62.65.140.219:80/session/1c781d6a-48f9-11e6-a1bf-005056bc1a52/nvnv5a/2/2010/index.m3u8?token=c825ec3ec23f329edaf0385b9182fd15_1468500943_1468500943&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France24fr.fr" group-title="French" tvg-logo="0236.png",[COLOR orange]France 24 FR[/COLOR]
+http://62.65.140.213:80/session/1d4ddbb2-48f9-11e6-8785-005056bc1a52/nvnv5a/2/2007/index.m3u8?token=7a2a289a8544102d31481275f5216632_1468500944_1468500944&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="FranceO.fr" group-title="French" tvg-logo="0226.png",[COLOR orange]France Ô FR[/COLOR]
+http://62.65.140.149:80/session/1e3f706c-48f9-11e6-8785-005056bc1a52/nvnv5a/2/2015/index.m3u8?token=b64eb0fda924dbb696a258376b4d9fc0_1468500946_1468500946&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Gulli.fr" group-title="French" tvg-logo="0225.png",[COLOR orange]Gulli FR[/COLOR]
+http://62.65.140.217:80/session/262f146c-48f9-11e6-9c3e-005056bc49ac/nvnv5a/2/2011/index.m3u8?token=c7cde6c52755eb4384c5954e651d85d1_1468500949_1468500949&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Italia1.it" group-title="Italian" tvg-logo="0615.png",[COLOR orange]Italia 1 HD IT[/COLOR]
+http://62.65.140.155:80/session/281743d0-48f9-11e6-bb15-005056bc06d1/nvnv5a/2/3028/index.m3u8?token=d955e3f40bd13fd9bd91b630e0d5521b_1468500961_1468500961&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ITV1London.uk" group-title="English" tvg-logo="0410.png",[COLOR orange]ITV1 HD EN[/COLOR]
+http://62.65.140.149:80/session/29b1c058-48f9-11e6-9384-005056bc49ac/nvnv5a/2/4018/index.m3u8?token=fef3ce29d98f5e8af19670afc2a913a0_1468500964_1468500964&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ITV2.uk" group-title="English" tvg-logo="0411.png",[COLOR orange]ITV2 EN[/COLOR]
+http://62.65.140.155:80/session/2a8cae70-48f9-11e6-9009-005056bc06d1/nvnv5a/2/4005/index.m3u8?token=2a8e7993753f7873e3f3388be47aefbf_1468500967_1468500967&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ITV3.uk" group-title="English" tvg-logo="0412.png",[COLOR orange]ITV3 EN[/COLOR]
+http://62.65.140.153:80/session/2b39e5c2-48f9-11e6-a1bf-005056bc1a52/nvnv5a/2/4025/index.m3u8?token=33fa2d54a025f0de6f4e55c19afa3303_1468500968_1468500968&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Joiz.ch" group-title="Deutsch" tvg-logo="0042.png",[COLOR orangered]Joiz[/COLOR]
+http://62.65.140.150:80/session/2db722ce-48f9-11e6-8d2c-005056bc1a52/nvnv5a/2/1172/index.m3u8?token=d8fd0d5d34f1b6e33b57850b77029667_1468500969_1468500969&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0130.png",[COLOR orangered]Kabel 1 HD[/COLOR]
+http://62.65.140.216:80/session/2e4d94f2-48f9-11e6-b052-005056bc1a52/nvnv5a/1/1039/index.m3u8?token=5f5627eb09e377da37a7f5a07fe806f3_1468500973_1468500973&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKa HD[/COLOR]
+http://62.65.140.215:80/session/2fd6d27a-48f9-11e6-9384-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=e960c27bb2cf4a6acfd5a5aee84ddcf4_1468500976_1468500976&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="La7.it" group-title="Italian" tvg-logo="0617.png",[COLOR orange]LA7 IT[/COLOR]
+http://62.65.140.151:80/session/3088b0bc-48f9-11e6-b25e-005056bc49ac/nvnv5a/2/3027/index.m3u8?token=12a9bddfb542f30cda562b28b0415d08_1468500977_1468500977&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="latele.fr" group-title="French" tvg-logo="0244.png",[COLOR orange]la télé FR[/COLOR]
+http://62.65.140.214:80/session/314df174-48f9-11e6-b25e-005056bc49ac/nvnv5a/2/2043/index.m3u8?token=4eed89f663e536ef0f41409a13df125f_1468500978_1468500978&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="lemanbleu.fr" group-title="French" tvg-logo="0245.png",[COLOR orange]léman bleu FR[/COLOR]
+http://62.65.140.216:80/session/31eb9848-48f9-11e6-8cc1-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=5464fe523916e9d419ba7f15fc3a372f_1468500979_1468500979&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="M6.fr" group-title="French" tvg-logo="0209.png",[COLOR orange]M6 HD FR[/COLOR]
+http://62.65.140.154:80/session/3292c05a-48f9-11e6-8785-005056bc1a52/nvnv5a/2/2026/index.m3u8?token=1264fd10ddfc1797372f810f6a50d7c3_1468500980_1468500980&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MDRSachsen.de" group-title="Deutsch" tvg-logo="0020.png",[COLOR orangered]MDR[/COLOR]
+http://62.65.140.217:80/session/33198482-48f9-11e6-9384-005056bc49ac/nvnv5a/1/1069/index.m3u8?token=900ef6c1d0ac286643ec5219e8f26d11_1468500981_1468500981&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MTV.it" group-title="Italian" tvg-logo="0144.png",[COLOR orange]MTV Italy[/COLOR]
+http://62.65.140.154:80/session/33d4cabc-48f9-11e6-957f-005056bc06d1/nvnv5a/2/3009/index.m3u8?token=0e1ff00b95b0e2a41bbc09473243a36d_1468500982_1468500982&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MTV.ch" group-title="Deutsch" tvg-logo="0145.png",[COLOR orangered]MTV HD DE[/COLOR]
+http://62.65.140.216:80/session/36cbf8b2-48f9-11e6-957f-005056bc06d1/nvnv5a/1/1033/index.m3u8?token=5ec100145f9ddf85270194b4041dbe5c_1468500987_1468500987&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ntv.de" group-title="Deutsch" tvg-logo="0034.png",[COLOR orangered]n-tv[/COLOR]
+http://62.65.140.148:80/session/375e3678-48f9-11e6-8cc1-005056bc06d1/nvnv5a/1/1025/index.m3u8?token=818b921b8b7685ebab1a8941941d2b82_1468500988_1468500988&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR orangered]NDR HD[/COLOR]
+http://62.65.140.212:80/session/3852319c-48f9-11e6-bb15-005056bc06d1/nvnv5a/1/1115/index.m3u8?token=1a9fac6eb3fc2f2af7f11495f0f89f95_1468500989_1468500989&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Nick.de" group-title="Deutsch" tvg-logo="0043.png",[COLOR orangered]Nickelodeon[/COLOR]
+http://62.65.140.155:80/session/392427e2-48f9-11e6-bb15-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=aeb66d318104e6cfa742ead9109c7183_1468500991_1468500991&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Nick.ch" group-title="Deutsch" tvg-logo="0141.png",[COLOR orangered]Nickelodeon HD Schweiz[/COLOR]
+http://62.65.140.212:80/session/39ce49b6-48f9-11e6-9384-005056bc49ac/nvnv5a/1/1004/index.m3u8?token=f4690e338b1d27eb59d4855e3af02687_1468500992_1468500992&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR orangered]ORF1 HD[/COLOR]
+http://62.65.140.150:80/session/3a415dde-48f9-11e6-8785-005056bc1a52/nvnv5a/1/1010/index.m3u8?token=f6365cc3db02f0c385d895b3a28251d7_1468500993_1468500993&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR orangered]ORF2 HD[/COLOR]
+http://62.65.140.151:80/session/3ae12b66-48f9-11e6-9009-005056bc06d1/nvnv5a/1/1011/index.m3u8?token=ff88acb5025017d0447b900eb1404ff4_1468500994_1468500994&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR orangered]PHOENIX HD[/COLOR]
+http://62.65.140.217:80/session/3b852cb6-48f9-11e6-b25e-005056bc49ac/nvnv5a/1/1122/index.m3u8?token=35d01bf670d6881cd0eca9d1a2129d43_1468500995_1468500995&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0128.png",[COLOR orangered]Pro7 HD[/COLOR]
+http://62.65.140.152:80/session/3c2ef1c4-48f9-11e6-8785-005056bc1a52/nvnv5a/1/1037/index.m3u8?token=29bf5d54c2052fae5b5987c244b68e1f_1468500996_1468500996&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orangered]Pro7Maxx[/COLOR]
+http://62.65.140.155:80/session/3eb62354-48f9-11e6-b25e-005056bc49ac/nvnv5a/1/1041/index.m3u8?token=2e6a4f5216c1567cc51f994c89e7a033_1468501001_1468501001&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Puls8.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR orangered]Puls 8 HD[/COLOR]
+http://62.65.140.154:80/session/3f3727e2-48f9-11e6-a1bf-005056bc1a52/nvnv5a/2/1053/index.m3u8?token=553fca534bedfcf310c369410b1435af_1468501002_1468501002&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RAIUno.it" group-title="Italian" tvg-logo="0605.png",[COLOR orange]Rai 1 IT[/COLOR]
+http://62.65.140.153:80/session/3fee4576-48f9-11e6-9384-005056bc49ac/nvnv5a/2/3003/index.m3u8?token=c20aa71dd1dbbfe03dd9d7cb656f9f4e_1468501002_1468501002&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RAIDue.it" group-title="Italian" tvg-logo="0606.png",[COLOR orange]Rai 2 IT[/COLOR]
+http://62.65.140.215:80/session/4088661a-48f9-11e6-9384-005056bc49ac/nvnv5a/2/3004/index.m3u8?token=0f37cc9f9bd6fc7457bc1504a59da201_1468501004_1468501004&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RAITre.it" group-title="Italian" tvg-logo="0607.png",[COLOR orange]Rai 3 IT[/COLOR]
+http://62.65.140.214:80/session/411fa07a-48f9-11e6-8785-005056bc1a52/nvnv5a/2/3005/index.m3u8?token=a5955e1deca3b704213781595bfefd15_1468501005_1468501005&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RaiNews.it" group-title="Italian" tvg-logo="0613.png",[COLOR orange]Rai News 24 IT[/COLOR]
+http://62.65.140.212:80/session/41d1dc68-48f9-11e6-8cc1-005056bc06d1/nvnv5a/2/3018/index.m3u8?token=1ad2e0ad2284d282243434a3cd36de19_1468501006_1468501006&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RaiSport1.it" group-title="Italian" tvg-logo="0611.png",[COLOR orange]Rai Sport 1 IT[/COLOR]
+http://62.65.140.216:80/session/429ae5fe-48f9-11e6-b25e-005056bc49ac/nvnv5a/2/3021/index.m3u8?token=de36f126ecfd9eb35d6d97ecd8995a4c_1468501007_1468501007&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Rete4.it" group-title="Italian" tvg-logo="0000.png",[COLOR orange]Rete 4 HD IT[/COLOR]
+http://62.65.140.216:80/session/43306034-48f9-11e6-8785-005056bc1a52/nvnv5a/2/3032/index.m3u8?token=7a123052a9750f40df709454c032fba2_1468501008_1468501008&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RSILa1.ch" group-title="Italian" tvg-logo="0602.png",[COLOR orange]RSI LA 1 HD IT[/COLOR]
+http://62.65.140.154:80/session/43b21a3e-48f9-11e6-8d2c-005056bc1a52/nvnv5a/2/3045/index.m3u8?token=4cbdd168acfdd28f988566bfe9b4773f_1468501009_1468501009&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RSILa2.ch" group-title="Italian" tvg-logo="0604.png",[COLOR orange]RSI LA 2 HD IT[/COLOR]
+http://62.65.140.153:80/session/443aecd8-48f9-11e6-bb15-005056bc06d1/nvnv5a/2/3046/index.m3u8?token=8aa99df349a2568c7f65c01c1e41f05c_1468501010_1468501010&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0131.png",[COLOR orangered]RTL 2 HD[/COLOR]
+http://62.65.140.150:80/session/44cf0e04-48f9-11e6-a1bf-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=d7e2de1c516e982d0db79b424bc8eacd_1468501011_1468501011&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="rtl1025.ch" group-title="Italian" tvg-logo="0000.png",[COLOR orange]RTL 102.5 IT[/COLOR]
+http://62.65.140.153:80/session/45a83774-48f9-11e6-8785-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=c91b3dcb531b06a238f7cc71a506e65a_1468501012_1468501012&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR orangered]RTL HD[/COLOR]
+http://62.65.140.152:80/session/463202ba-48f9-11e6-8785-005056bc1a52/nvnv5a/1/1020/index.m3u8?token=de91a5e089c7295e84bd548f1904d192_1468501013_1468501013&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orangered]RTL Nitro HD[/COLOR]
+http://62.65.140.213:80/session/46ce9ad0-48f9-11e6-8cc1-005056bc06d1/nvnv5a/1/1027/index.m3u8?token=b5d82bc967d0c1a23c620fd6b577fd3a_1468501014_1468501014&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTPi.pt" group-title="Portuguese" tvg-logo="0000.png",[COLOR orange]RTPi PT[/COLOR]
+http://62.65.140.215:80/session/47612350-48f9-11e6-8cc1-005056bc06d1/nvnv5a/2/5001/index.m3u8?token=b5703bb739105dc334671f4086d55226_1468501015_1468501015&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TSR1.ch" group-title="French" tvg-logo="0211.png",[COLOR orange]RTS UN HD FR[/COLOR]
+http://62.65.140.213:80/session/47e18cca-48f9-11e6-b052-005056bc1a52/nvnv5a/2/2034/index.m3u8?token=a1305033bc71ba34a1ee560447c455e5_1468501016_1468501016&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TSR2.ch" group-title="French" tvg-logo="0213.png",[COLOR orange]RTS Deux HD FR[/COLOR]
+http://62.65.140.153:80/session/486f292c-48f9-11e6-8d2c-005056bc1a52/nvnv5a/2/2035/index.m3u8?token=a1c0ab3c8d86d2e61883b78b152265d4_1468501017_1468501017&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRTL.de" group-title="Deutsch" tvg-logo="0143.png",[COLOR orangered]Super RTL HD[/COLOR]
+http://62.65.140.215:80/session/492420f2-48f9-11e6-9009-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=78d6b8e501be3fd06f9b545ea908c74e_1468501018_1468501018&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="S1.ch" group-title="Deutsch" tvg-logo="0081.png",[COLOR orangered]S1 HD[/COLOR]
+http://62.65.140.150:80/session/49c9072a-48f9-11e6-957f-005056bc06d1/nvnv5a/1/1035/index.m3u8?token=485243b879a1fe881f4ac19cc5debf78_1468501019_1468501019&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0129.png",[COLOR orangered]Sat.1 HD[/COLOR]
+http://62.65.140.148:80/session/4a724498-48f9-11e6-b25e-005056bc49ac/nvnv5a/1/1038/index.m3u8?token=c635c0465aa94acb23b634aa4a7d890c_1468501020_1468501020&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ServusHD.de" group-title="Deutsch" tvg-logo="0123.png",[COLOR orangered]Servus TV HD[/COLOR]
+http://62.65.140.151:80/session/4b4b919e-48f9-11e6-9009-005056bc06d1/nvnv5a/1/1012/index.m3u8?token=72f387a40f6d42391800858d091d594c_1468501021_1468501021&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sixx.de" group-title="Deutsch" tvg-logo="0133.png",[COLOR orangered]sixx HD[/COLOR]
+http://62.65.140.153:80/session/51d1759c-48f9-11e6-bb15-005056bc06d1/nvnv5a/1/1040/index.m3u8?token=f47d6d78b210d606e75961393b13fd6f_1468501033_1468501033&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sport1HD.de" group-title="Deutsch" tvg-logo="0050.png",[COLOR orangered]Sport1[/COLOR]
+http://62.65.140.148:80/session/5271218c-48f9-11e6-9009-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=6b514950d758bdb3d0b7dc4f7fac1fcc_1468501034_1468501034&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRF1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR orangered]SRF 1 HD[/COLOR]
+http://62.65.140.155:80/session/52ffb03c-48f9-11e6-b052-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=be7ecbcafb0824de72f3070af3c2c618_1468501035_1468501035&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRF2.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR orangered]SRF zwei HD[/COLOR]
+http://62.65.140.217:80/session/537e1936-48f9-11e6-8785-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=ad1f64a1ed2335dfe03e93a468601971_1468501036_1468501036&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Deutsch" tvg-logo="0079.png",[COLOR orangered]SRF info[/COLOR]
+http://62.65.140.219:80/session/54145a22-48f9-11e6-957f-005056bc06d1/nvnv5a/2/1052/index.m3u8?token=f72a8114298b6d29d13443842b106a4a_1468501036_1468501036&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="StarTV.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR orangered]Star TV[/COLOR]
+http://62.65.140.148:80/session/54ba7c68-48f9-11e6-8cc1-005056bc06d1/nvnv5a/1/1107/index.m3u8?token=48163931407198744c8324466554e9ca_1468501037_1468501037&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orangered]SWR BW HD[/COLOR]
+http://62.65.140.212:80/session/554137da-48f9-11e6-9384-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=1ac06252f8c3c807a7e1df6f794432d0_1468501039_1468501039&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="telebasel.ch" group-title="Deutsch" tvg-logo="0086.png",[COLOR orangered]Tele Basel[/COLOR]
+http://62.65.140.213:80/session/55efacde-48f9-11e6-a1bf-005056bc1a52/nvnv5a/1/1135/index.m3u8?token=e7df693347bc1a6ea79ed21dc7aa9546_1468501039_1468501039&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="telebarn.ch" group-title="Deutsch" tvg-logo="0085.png",[COLOR orangered]Tele Bärn[/COLOR]
+http://62.65.140.152:80/session/569d63c4-48f9-11e6-a1bf-005056bc1a52/nvnv5a/1/1137/index.m3u8?token=d57831973ef8d4baaebf118505766200_1468501041_1468501041&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="tele1.ch" group-title="Deutsch" tvg-logo="0090.png",[COLOR orangered]Tele 1[/COLOR]
+http://62.65.140.219:80/session/575ae872-48f9-11e6-957f-005056bc06d1/nvnv5a/1/1128/index.m3u8?token=09d6bc3f48bba72948769346a3c62f87_1468501042_1468501042&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Tele5.de" group-title="Deutsch" tvg-logo="0041.png",[COLOR orangered]Tele 5[/COLOR]
+http://62.65.140.149:80/session/580a93d0-48f9-11e6-9c3e-005056bc49ac/nvnv5a/1/1090/index.m3u8?token=7affbc8bd9650e53f55603124af35d2a_1468501043_1468501043&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="telebielingue.ch" group-title="Deutsch" tvg-logo="0087.png",[COLOR orangered]Tele Bielingue[/COLOR]
+http://62.65.140.219:80/session/58b76d6c-48f9-11e6-9009-005056bc06d1/nvnv5a/2/2040/index.m3u8?token=59c06c9a4bdd9e656d63a6b0b3007db0_1468501044_1468501044&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TeleM1.ch" group-title="Deutsch" tvg-logo="0094.png",[COLOR orangered]Tele M1[/COLOR]
+http://62.65.140.152:80/session/59775942-48f9-11e6-9c3e-005056bc49ac/nvnv5a/1/1132/index.m3u8?token=0e46271160810032eadf41eaf6937450_1468501045_1468501045&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="teleticino.it" group-title="Italian" tvg-logo="0618.png",[COLOR orange]Tele Ticino IT[/COLOR]
+http://62.65.140.151:80/session/5a2aa8bc-48f9-11e6-8d2c-005056bc1a52/nvnv5a/2/3036/index.m3u8?token=b43185d94c131c0989c3c55886f457f4_1468501046_1468501046&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="teletop.ch" group-title="Deutsch" tvg-logo="0091.png",[COLOR orangered]Tele Top[/COLOR]
+http://62.65.140.214:80/session/5b04f3fa-48f9-11e6-9384-005056bc49ac/nvnv5a/1/1129/index.m3u8?token=10e32cb3425bbdc09473d710b1fc2b60_1468501048_1468501048&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TF1.fr" group-title="French" tvg-logo="0202.png",[COLOR orange]TF1 HD FR[/COLOR]
+http://62.65.140.150:80/session/5badefaa-48f9-11e6-8785-005056bc1a52/nvnv5a/2/2027/index.m3u8?token=daab83e5afabf261310f72329b440be8_1468501049_1468501049&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TRT1.de" group-title="Turkish" tvg-logo="0801.png",[COLOR olivedrab]TRT1 TR[/COLOR]
+http://62.65.140.218:80/session/5c6c8442-48f9-11e6-8d2c-005056bc1a52/nvnv5a/2/5030/index.m3u8?token=e194bb411fc5a421171b7d209820e35a_1468501050_1468501050&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TSO.ch" group-title="Deutsch" tvg-logo="0088.png",[COLOR orangered]TSO[/COLOR]
+http://62.65.140.213:80/session/5d2b66e6-48f9-11e6-bb15-005056bc06d1/nvnv5a/1/1130/index.m3u8?token=86ac74bdbbb8994cf4227d0bc2e437de_1468501051_1468501051&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0053.png",[COLOR orangered]ZDF neo HD[/COLOR]
+http://62.65.140.214:80/session/6b2e2832-48f9-11e6-9009-005056bc06d1/nvnv5a/1/1121/index.m3u8?token=0b18c49b3ac07ff5892a21c50ad7ac82_1468501075_1468501075&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
+http://62.65.140.212:80/session/6bb15428-48f9-11e6-8cc1-005056bc06d1/nvnv5a/2/1166/index.m3u8?token=18b61dc19076359f794b2ea3a276f053_1468501076_1468501076&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFtheater.de" group-title="Deutsch" tvg-logo="0055.png",[COLOR orangered]zdf.kultur HD[/COLOR] 
+http://62.65.140.152:80/session/6c505564-48f9-11e6-9384-005056bc49ac/nvnv5a/1/1119/index.m3u8?token=7cf14de5e6f61b74173cafc7226ae4c1_1468501077_1468501077&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0057.png",[COLOR orangered]ZDF-Info HD[/COLOR]
+http://62.65.140.216:80/session/6d0d9386-48f9-11e6-bb15-005056bc06d1/nvnv5a/1/1118/index.m3u8?token=41072c78a2c236d5afd1b5fe7b834eae_1468501078_1468501078&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="WDR.de" group-title="Deutsch" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR] 
+http://62.65.140.213:80/session/6da6321c-48f9-11e6-9009-005056bc06d1/nvnv5a/1/1113/index.m3u8?token=fea153db92b79e0f019b9d89277e36d2_1468501079_1468501079&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="W9.ch" group-title="French" tvg-logo="0217.png",[COLOR orange]W9 FR[/COLOR]
+http://62.65.140.154:80/session/6e629a9c-48f9-11e6-8d2c-005056bc1a52/nvnv5a/2/2022/index.m3u8?token=5ff24db8346ce8661fdbd8be3ab497fe_1468501080_1468501080&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="0010.png",[COLOR orangered]VOX HD[/COLOR]
+http://62.65.140.149:80/session/6f007f96-48f9-11e6-9384-005056bc49ac/nvnv5a/1/1021/index.m3u8?token=f0496ec57636ee33eae43c430ea89aa4_1468501082_1468501082&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" group-title="Deutsch" tvg-logo="0044.png",[COLOR orangered]Comedy Central/VIVA HD[/COLOR]
+http://62.65.140.154:80/session/7049a198-48f9-11e6-8785-005056bc1a52/nvnv5a/1/1014/index.m3u8?token=6fe4680f051b6de62771a9c96d360d44_1468501084_1468501084&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TeleZurich.ch" group-title="Deutsch" tvg-logo="0083.png",[COLOR orangered]Tele Züri[/COLOR]
+http://62.65.140.149:80/session/70e9bb42-48f9-11e6-9009-005056bc06d1/nvnv5a/2/1048/index.m3u8?token=8579251164e5090e5dde81934ebf9575_1468501085_1468501085&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TVO.ch" group-title="Deutsch" tvg-logo="0089.png",[COLOR orangered]TVO[/COLOR]
+http://62.65.140.216:80/session/71a67c5a-48f9-11e6-9009-005056bc06d1/nvnv5a/1/1131/index.m3u8?token=f8fed0fb195c44f299a00b623b0f46c3_1468501086_1468501086&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TVEi.nws" group-title="Spanish" tvg-logo="0000.png",[COLOR orange]TVEi ES[/COLOR]
+http://62.65.140.217:80/session/72597864-48f9-11e6-8cc1-005056bc06d1/nvnv5a/2/5003/index.m3u8?token=a01300f703b95d0705ee5596d5edfbfd_1468501087_1468501087&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TV24.ch" group-title="Deutsch" tvg-logo="0082.png",[COLOR orangered]TV24 HD[/COLOR]
+http://62.65.140.151:80/session/72f7602e-48f9-11e6-8cc1-005056bc06d1/nvnv5a/1/1042/index.m3u8?token=12b4fb39f4d730bf99282fc7a7d86f21_1468501088_1468501088&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="French" tvg-logo="0234.png",[COLOR orange]TV5 Monde FR[/COLOR] 
+http://62.65.140.148:80/session/739e3746-48f9-11e6-b052-005056bc1a52/nvnv5a/2/2006/index.m3u8?token=88e05fd7ee31f8fc1f1436c0f73a9866_1468501089_1468501089&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Mixed" tvg-logo="0000.png",[COLOR white]- MIXED SD-HD CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0800 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF SD (DE Proxy/VPN)[/COLOR]
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_2256_av-p.m3u8?sd=10&dw=0&rebase=on&hdntl=
+#EXTINF:0800 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0001.png",[COLOR orangered]ARD SD[/COLOR]
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8
+#EXTINF:0800 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]Das Erste[/COLOR]
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]arte[/COLOR]
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]ARD alpha (DE Proxy/VPN)[/COLOR]
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]Bayerisches Fernsehen Nord (DE Proxy/VPN)[/COLOR]
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]Bayerisches Fernsehen Süd (DE Proxy/VPN)[/COLOR]
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]hr-fernsehen (DE Proxy/VPN)[/COLOR]
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]KiKA (DE Proxy/VPN)[/COLOR]
+http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]MDR Fernsehen Sachsen (DE Proxy/VPN)[/COLOR]
+http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]MDR Fernsehen Sachsen-Anhalt (DE Proxy/VPN)[/COLOR]
+http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]MDR Fernsehen Thüringen (DE Proxy/VPN)[/COLOR]
+http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]NDR Hamburg[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]NDR Mecklenburg-Vorpommern[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]NDR Niedersachsen[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]NDR Schleswig-Holstein[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]rbb Berlin (DE Proxy/VPN)[/COLOR]
+http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]rbb Brandenburg (DE Proxy/VPN)[/COLOR]
+http://rbb_live-lh.akamaihd.net/i/rbb_brandenburg@107638/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]SR Fernsehen (DE Proxy/VPN)[/COLOR]
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-p.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]SWR Fernsehen Baden-Würtemberg[/COLOR]
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]SWR Fernsehen Rheinland-Pfalz[/COLOR]
+http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="Deutsch" tvg-logo="",[COLOR orangered]WDR Fernsehen[/COLOR]
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+#EXTINF:0800 tvg-id="tagesschau24.de" group-title="Deutsch" tvg-logo="0064.png",[COLOR orangered]tagesschau24[/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:0800 tvg-id="RiC.de" group-title="Deutsch" tvg-logo="0048.png",[COLOR orangered]RIC SD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0118.m3u8
+#EXTINF:0800 tvg-id="HR.de" group-title="Deutsch" tvg-logo="0026.png",[COLOR orangered]HR HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0119.m3u8
+#EXTINF:0800 tvg-id="DeutscheWelle.de" group-title="Deutsch" tvg-logo="0125.png",[COLOR orangered]Deutsche Welle **broken[/COLOR]
+http://www.iptvsaga.com/play/tv3/0120.m3u8
+#EXTINF:0800 tvg-id="DAF.de" group-title="Deutsch" tvg-logo="0098.png",[COLOR orangered]DAF[/COLOR]
+http://www.iptvsaga.com/play/tv3/0122.m3u8
+#EXTINF:0800 tvg-id="WeltDerWunder.de" group-title="Deutsch" tvg-logo="0099.png",[COLOR orangered]welt der wunder[/COLOR]
+http://www.iptvsaga.com/play/tv3/0123.m3u8
+#EXTINF:0800 tvg-id="ORF1.de" group-title="Deutsch" tvg-logo="1.orf.at.png",[COLOR orangered]ORF1 HD[/COLOR]
+http://185.85.28.20/orf1/q8c.sdp/chunklist.m3u8
+#EXTINF:0800 tvg-id="ORF2.de" group-title="Deutsch" tvg-logo="2.orf.at.png",[COLOR orangered]ORF2 HD[/COLOR]
+http://185.85.28.20/orf2/q8c.sdp/chunklist.m3u8
+#EXTINF:0800 tvg-id="ORF3.at" group-title="Deutsch" tvg-logo="3.orf.at.png",[COLOR orangered]ORF3 HD[/COLOR]
+http://185.85.28.20/orf3/q8c.sdp/chunklist.m3u8
+#EXTINF:0800 tvg-id="ORFSportPlus.at" group-title="Deutsch" tvg-logo="0097.png",[COLOR orangered]ORF Sport+ (Austria Proxy/VPN)[/COLOR]
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=5.132.138.10
+#EXTINF:0800 tvg-id="ORF1.de" group-title="Deutsch" tvg-logo="1.orf.at.png",[COLOR orangered]ORF1 (AT Proxy/VPN)[/COLOR]
+http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=5.132.138.10
+#EXTINF:0800 tvg-id="ORF2.de" group-title="Deutsch" tvg-logo="2.orf.at.png",[COLOR orangered]ORF2 (AT Proxy/VPN)[/COLOR]
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=5.132.138.10
+#EXTINF:0800 tvg-id="ORF3.at" group-title="Deutsch" tvg-logo="3.orf.at.png",[COLOR orangered]ORF3 (AT Proxy/VPN)[/COLOR]
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=5.132.138.10
+#EXTINF:0800 tvg-id="blizz.de" group-title="Deutsch" tvg-logo="0100.png",[COLOR orangered]blizz TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0127.m3u8
+#EXTINF:0800 tvg-id="FamilyTV.de" group-title="Deutsch" tvg-logo="0119.png",[COLOR orangered]Family TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0128.m3u8
+#EXTINF:0800 tvg-id="6ter.fr" group-title="French" tvg-logo="0229.png",[COLOR orange]6ter[/COLOR]
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:0800 tvg-id="noepg.epg" group-title="Music" tvg-logo="vevo.tv.png",[COLOR orangered]VEVO HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0124.m3u8
+#EXTINF:0800 tvg-id="MelodieTV.at" group-title="Music" tvg-logo="",[COLOR orangered]MELODIE TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0224.m3u8
+#EXTINF:0800 radio=true group-title="Music" tvg-logo="top100station.png",[COLOR orangered]TOP 100 STATION[/COLOR]
+http://www.iptvsaga.com/play/tv3/0225.m3u8
+#EXTINF:0070 tvg-id="BBC4.uk" group-title="English" tvg-logo="", [COLOR orange]BBC4 HD (UK Proxy/VPN)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0227.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0070 tvg-id="CBBC.uk" group-title="English" tvg-logo="", [COLOR orange]CBBC HD (UK Proxy/VPN)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0231.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0070 tvg-id="CBeebies.uk" group-title="English" tvg-logo="", [COLOR orange]CBeebies HD (UK Proxy/VPN)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0232.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0070 tvg-id="FashionTV.nws" group-title="English" tvg-logo="0419.png", [COLOR orange]Fashion TV **broken[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?playkodi=%2F.ts=-1
+#EXTINF:0070 tvg-id="" group-title="English" tvg-logo="", [COLOR orange]World Fashion Channel HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0228.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0070 tvg-id="" group-title="English" tvg-logo="", [COLOR orange]RT Documentary HD[/COLOR]
+http://rt-a.akamaihd.net/ch_05@325609/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="English" tvg-logo="", [COLOR orange]RT HD[/COLOR]
+http://rt-a.akamaihd.net/ch_06@325610/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="English" tvg-logo="", [COLOR orange]ABC News HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0229.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Weather Channel HD USA[/COLOR]
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]CTV News[/COLOR]
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]IN TV 4K[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]NBC GOLF HD[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Fox Sports 1 HD USA[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Fox Sports 1 SD USA[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Versus HD[/COLOR]
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Red Bull TV HD[/COLOR]
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Toronto[/COLOR]
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Halifax[/COLOR]
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]British Colombia[/COLOR]
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Mercedes-Benz Channel[/COLOR]
+mms://100automoto.tv/channel_mercedes
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Porsche Channel[/COLOR]
+mms://100automoto.tv/channel_porsche
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]Auto Sport TV[/COLOR]
+mms://100automoto.tv/100livesport
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]HSN[/COLOR]
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]HSN 2[/COLOR]
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+#EXTINF:0800 tvg-id="" group-title="English" tvg-logo="",[COLOR orange]TSC The Shopping Channel[/COLOR]
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+#EXTINF:0070 tvg-id="ArirangTv.kr" group-title="English" tvg-logo="", [COLOR orange]Arirang TV World HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0230.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0070 tvg-id="" group-title="English" tvg-logo="", [COLOR orange]Nasa TV Public HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0233.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0070 tvg-id="" group-title="English" tvg-logo="", [COLOR orange]Nasa TV Educational HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0234.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0070 tvg-id="" group-title="English" tvg-logo="", [COLOR orange]Nasa TV Media HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0235.m3u8|X-Forwarded-For=2.128.10.4
+#EXTINF:0800 tvg-id="EurosportHD.uk" group-title="English" tvg-logo="0049.png",[COLOR orange]Eurosport 1 EN[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0800 tvg-id="Eurosport.fr" group-title="French" tvg-logo="0049.png",[COLOR orange]Eurosport 1 FR[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0800 tvg-id="BFMTV.fr" group-title="French" tvg-logo="0222.png",[COLOR orange]BFM TV FR[/COLOR]
+http://www.iptvsaga.com/play/tv3/0125.m3u8
+#EXTINF:0800 tvg-id="BFMTV.fr" group-title="French" tvg-logo="",[COLOR orange]BFM Business FR[/COLOR]
+http://www.iptvsaga.com/play/tv3/0222.m3u8
+#EXTINF:0800 tvg-id="iTele.fr" group-title="French" tvg-logo="0223.png",[COLOR orange]iTele HD FR[/COLOR]
+http://www.iptvsaga.com/play/tv3/0126.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]Hispan TV HD ES[/COLOR]
+http://presstv-ch04.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b3500000_slspa.m3u8
+#EXTINF:0800 tvg-id="" group-title="Romanian" tvg-logo="",[COLOR orange]1 Prime HD MD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0209.m3u8
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Italian" tvg-logo="0000.png",[COLOR white]- ITALIAN CHANNELS[/COLOR]
+ftp://##
+#EXTINF:800 tvg-id="RAIUno.it" group-title="Italian" tvg-logo="rai4.png",[COLOR orange]Rai 1 HD[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/master.m3u8
+#EXTINF:800 tvg-id="RAI4.it" group-title="Italian" tvg-logo="rai4.png",[COLOR orange]Rai 4[/COLOR]
+http://originstream7.rai.it/italy/rai4new.smil/chunklist_b1200000.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="RAI5.it" group-title="Italian" tvg-logo="rai5.png",[COLOR orange]Rai 5[/COLOR]
+http://stream12.rai.it/live/smil:rai5_android.smil/playlist.m3u8|X-Forwarded-For=2.32.0.1 
+#EXTINF:800 tvg-id="RaiSport1.it" group-title="Italian" tvg-logo="0611.png",[COLOR orange]Rai Sport 1 HD[/COLOR]
+http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="RaiSport2.it" group-title="Italian" tvg-logo="0612.png",[COLOR orange]Rai Sport 2[/COLOR]
+http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="GazzettaTV.it" group-title="Italian" tvg-logo="gaz.png",[COLOR orange]Gazzetta TV[/COLOR]
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Sportitalia.it" group-title="Italian" tvg-logo="sportitalia.png",[COLOR orange]Sport Italia[/COLOR]
+http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
+#EXTINF:800 tvg-id="RAIGulp.it" group-title="Italian" tvg-logo="0608.png",[COLOR orange]Rai Gulp[/COLOR]
+http://originstream7.rai.it/italy/smil:raigulp.smil/chunklist_b900000.m3u8
+#EXTINF:800 tvg-id="RaiScuola.it" group-title="Italian" tvg-logo="0609.png",[COLOR orange]Rai Scuola[/COLOR]
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:800 tvg-id="RaiStoria.it" group-title="Italian" tvg-logo="0610.png",[COLOR orange]Rai Storia[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/d944f6019b45b4db053b265f64f705a0/index.m3u8
+#EXTINF:800 tvg-id="RAIYoyo.it" group-title="Italian" tvg-logo="yoyo.png",[COLOR orange]Rai Yoyo[/COLOR]
+http://originstream5.rai.it/italy/smil:raiyoyo.smil/chunklist_b900000.m3u8
+#EXTINF:800 tvg-id="RaisatPremium.it" group-title="Italian" tvg-logo="0622.png",[COLOR orange]Rai Premium[/COLOR]
+http://originstream7.rai.it/italy/smil:raipremium.smil/chunklist_b1800000.m3u8
+#EXTINF:800 tvg-id="RaisatCinema.it" group-title="Italian" tvg-logo="",[COLOR orange]Rai Movie[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:800 tvg-id="MediasetExtra.it" group-title="Italian" tvg-logo="",[COLOR orange]Mediaset Extra HD (IT Proxy/VPN)[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Italia2.it" group-title="Italian" tvg-logo="",[COLOR orange]Italia 2 HD (IT Proxy/VPN)[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="" group-title="Italian" tvg-logo="",[COLOR orange]Premium Extra 1 HD (IT Proxy/VPN)[/COLOR]
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH08HA)/Stream(04)/index.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Sportitalia.it" group-title="Italian" tvg-logo="",[COLOR orange]Sport Italia[/COLOR]
+http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
+#EXTINF:800 tvg-id="AutoMotoTV.it" group-title="Italian" tvg-logo="",[COLOR orange]Automoto TV[/COLOR]
+rtmp://178.22.187.142:1935/automoto/_definst_/mp4:myStream3
+#EXTINF:800 tvg-id="ClassCNBC.it" group-title="Italian" tvg-logo="",[COLOR orange]Class CNBC[/COLOR]
+http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
+#EXTINF:800 tvg-id="" group-title="Italian" tvg-logo="",[COLOR orange]Video 33[/COLOR]
+http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+#EXTINF:800 tvg-id="TV2000.it" group-title="Italian" tvg-logo="",[COLOR orange]TV 2000[/COLOR]
+http://mi1.wz.tv2000.it/mirror/High/chunklist.m3u8
+#EXTINF:800 tvg-id="CompanyTV.it" group-title="Italian" tvg-logo="company.png",[COLOR orange]Company TV[/COLOR]
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+#EXTINF:800 tvg-id="CapitalTV.it" group-title="Italian" tvg-logo="capital.png",[COLOR orange]Capital TV[/COLOR]
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="CapitalTV.it" group-title="Italian" tvg-logo="virgin.png",[COLOR orange]Virgin TV[/COLOR]
+http://fms.105.net:1935/live/virgin1/playlist.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Radiotaormina.it" group-title="Italian" tvg-logo="taormina.png",[COLOR orange]Radio Taormina TV[/COLOR]
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:800 tvg-id="SkyTG24DTT.it" group-title="Italian" tvg-logo="0625.png",[COLOR orange]Sky TG24[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:800 tvg-id="Marcopolo.it" group-title="Italian" tvg-logo="marco.png",[COLOR orange]Marco Polo[/COLOR]
+http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="La3.it" group-title="Italian" tvg-logo="la3.png",[COLOR orange]La 3[/COLOR]
+http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="TV2000.it" group-title="Italian" tvg-logo="tv2000.png",[COLOR orange]Tv2000[/COLOR]
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Alice.it.it" group-title="Italian" tvg-logo="alice.png",[COLOR orange]Alice[/COLOR]
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:800 tvg-id="RTVSanMarino.it" group-title="Italian" tvg-logo="smarino.png",[COLOR orange]RTV San Marino[/COLOR]
+http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/playlist.m3u8
+#EXTINF:800 tvg-id="SkyMusic.it" group-title="Italian" tvg-logo="m2o.png",[COLOR orange]M2o Tv[/COLOR]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Repubblica.it" group-title="Italian" tvg-logo="reptv.png",[COLOR orange]Repubblica TV[/COLOR]
+http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="RaiNettuno.it" group-title="Italian" tvg-logo="rainet.png",[COLOR orange]Rai Nettuno[/COLOR]
+http://stream6.rai.it/live/smil:uninettuno.smil/chunklist_b900000.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="quartarete.tv" group-title="Italian" tvg-logo="qrete.png",[COLOR orange]Quarta Rete[/COLOR]
+http://wowza1.top-ix.org/quartaretetv/quartareteweb/playlist.m3u
+#EXTINF:800 tvg-id="Canale8.it" group-title="Italian" tvg-logo="canale8.png",[COLOR orange]Canale 8[/COLOR]
+http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
+#EXTINF:800 tvg-id="TG24Norba.it" group-title="Italian" tvg-logo="tgn24.png",[COLOR orange]TG24 Norba[/COLOR]
+http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+#EXTINF:800 tvg-id="TeleChiara.it" group-title="Italian" tvg-logo="telechiara.png",[COLOR orange]Tele Chiara[/COLOR]
+rtmp://fms.tvavicenza.it:1935/telechiara/diretta
+#EXTINF:800 tvg-id="Televaldarno.it" group-title="Italian" tvg-logo="rtv38.png",[COLOR orange]Televaldarno RTV38[/COLOR]
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+#EXTINF:800 tvg-id="Ondalatina.it" group-title="Italian" tvg-logo="ondalatina.png",[COLOR orange]Onda Latina[/COLOR]
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:800 tvg-id="TRMh24.it" group-title="Italian" tvg-logo="trmh24.png",[COLOR orange]Trm H24[/COLOR]
+http://flash.streamingmedia.it:1935/TRM/livestream/playlist.m3u8
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Turkish" tvg-logo="0000.png",[COLOR white]- TURKISH CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0802 tvg-id="8222.TRT 1 HD.dsmart.com.tr" group-title="Turkish" tvg-logo="108209.png", [COLOR olivedrab]TRT 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0030.m3u8
+#EXTINF:0807 tvg-id="8221.TRT HD.dsmart.com.tr" group-title="Turkish" tvg-logo="641998.png", [COLOR olivedrab]TRT HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0036.m3u8
+#EXTINF:0823 tvg-id="8223.TRT HABER HD.dsmart.com.tr" group-title="Turkish" tvg-logo="305003.png", [COLOR olivedrab]TRT HABER HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0049.m3u8
+#EXTINF:0824 tvg-id="8823.TRT TURK.dsmart.com.tr" group-title="Turkish" tvg-logo="324361.png", [COLOR olivedrab]TRT TÜRK HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0050.m3u8
+#EXTINF:0802 tvg-id="trt1.tr" group-title="Turkish" tvg-logo="108209.png", [COLOR olivedrab]TRT World[/COLOR]
+http://www.iptvsaga.com/play/tv3/0031.m3u8
+#EXTINF:0803 tvg-id="9991.TRT AVAZ DOGU.dsmart.com.tr" group-title="Turkish" tvg-logo="800602.png", [COLOR olivedrab]TRT AVAZ HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0032.m3u8
+#EXTINF:0804 tvg-id="246.TRT Kurdi.digiturk.com.tr" group-title="Turkish" tvg-logo="707556.png", [COLOR olivedrab]TRT KURDİ HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0033.m3u8
+#EXTINF:0805 tvg-id="8838.TRT OKUL.dsmart.com.tr" group-title="Turkish" tvg-logo="976101.png", [COLOR olivedrab]TRT OKUL HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0034.m3u8
+#EXTINF:0806 tvg-id="9995.TRT ARAPCA.dsmart.com.tr" group-title="Turkish" tvg-logo="706529.png", [COLOR olivedrab]TRT ARAPÇA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0035.m3u8
+#EXTINF:0808 tvg-id="8824.TRT 3.dsmart.com.tr" group-title="Turkish" tvg-logo="370171.png", [COLOR olivedrab]TRT 3-TBMM TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0037.m3u8
+#EXTINF:0834 tvg-id="8224.TRT SPOR HD.dsmart.com.tr" group-title="Turkish" tvg-logo="371098.png", [COLOR olivedrab]TRT SPOR HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0056.m3u8
+#EXTINF:0842 tvg-id="8225.TRT BELGESEL HD.dsmart.com.tr" group-title="Turkish" tvg-logo="910816.png", [COLOR olivedrab]TRT BELGESEL HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0061.m3u8
+#EXTINF:0845 tvg-id="trtdiyanet.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]TRT DİYANET HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0062.m3u8
+#EXTINF:0811 tvg-id="8176.ATV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="362041.png", [COLOR olivedrab]ATV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0041.m3u8
+#EXTINF:0815 tvg-id="8421.Show TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="442251.png", [COLOR olivedrab]SHOW HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:0809 tvg-id="430.Kanal D HD.digiturk.com.tr" group-title="Turkish" tvg-logo="880948.png", [COLOR olivedrab]Kanal D HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:0845 tvg-id="8755.Star TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]Star TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:0845 tvg-id="428.TV8 HD.digiturk.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]tv8 int[/COLOR]
+http://www.iptvsaga.com/play/tv3/0064.m3u8
+#EXTINF:0845 tvg-id="8441.FOX TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]Fox HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0065.m3u8
+#EXTINF:0810 tvg-id="8872.SAMANYOLU TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="518299.png", [COLOR olivedrab]Samanyolu TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:0810 tvg-id="8863.Samanyolu Haber.dsmart.com.tr" group-title="Turkish" tvg-logo="518299.png", [COLOR olivedrab]Samanyolu Haber[/COLOR]
+http://www.iptvsaga.com/play/tv3/0040.m3u8
+#EXTINF:0812 tvg-id="156.Flash TV.digiturk.com.tr" group-title="Turkish" tvg-logo="630601.png", [COLOR olivedrab]Flash TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:0813 tvg-id="8521.KANAL 7 HD.dsmart.com.tr" group-title="Turkish" tvg-logo="236150.png", [COLOR olivedrab]Kanal 7[/COLOR]
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+#EXTINF:0814 tvg-id="8501.KANALTURK HD.dsmart.com.tr" group-title="Turkish" tvg-logo="694816.png", [COLOR olivedrab]KANALTÜRK HD[/COLOR]
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:0817 tvg-id="325.TVEM.digiturk.com.tr" group-title="Turkish" tvg-logo="320261.png", [COLOR olivedrab]TVEM[/COLOR]
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:0818 tvg-id="256.Tv2.digiturk.com.tr" group-title="Turkish" tvg-logo="493245.png", [COLOR olivedrab]TV 2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0047.m3u8
+#EXTINF:0821 tvg-id="8743.e2.dsmart.com.tr" group-title="Turkish" tvg-logo="451202.png", [COLOR olivedrab]e2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0048.m3u8
+#EXTINF:0845 tvg-id="8401.FIL TV.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]Fil TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:0845 tvg-id="8742.Cnbc-e.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]TLC **broken[/COLOR]
+http://www.iptvsaga.com/play/tv3/0074.m3u8
+#EXTINF:0825 tvg-id="29.CNN TÜRK.digiturk.com.tr" group-title="Turkish" tvg-logo="644533.png", [COLOR olivedrab]CNN Turk[/COLOR]
+http://www.iptvsaga.com/play/tv3/0051.m3u8
+#EXTINF:0845 tvg-id="31.HABERTURK.digiturk.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]HABERTÜRK[/COLOR]
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:0829 tvg-id="buguntv.tr" group-title="Turkish" tvg-logo="340209.png", [COLOR olivedrab]Bugün TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0052.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Family HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0072.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Premier HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0223.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Black HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0226.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Action HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0243.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Comedy HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0244.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Türk HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0245.m3u8
+#EXTINF:0845 tvg-id="9021.BLOOMBERG HT.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]Bloomberg[/COLOR]
+http://www.iptvsaga.com/play/tv3/0066.m3u8
+#EXTINF:0830 tvg-id="243.TRT Çocuk - TRT4.digiturk.com.tr" group-title="Turkish" tvg-logo="850565.png", [COLOR olivedrab]TRT ÇOCUK[/COLOR]
+http://www.iptvsaga.com/play/tv3/0053.m3u8
+#EXTINF:0832 tvg-id="291.MinikaGO.digiturk.com.tr" group-title="Turkish" tvg-logo="326824.png", [COLOR olivedrab]MINIKA Çocuk[/COLOR]
+http://www.iptvsaga.com/play/tv3/0054.m3u8
+#EXTINF:0833 tvg-id="8173.MINIKA GO.dsmart.com.tr" group-title="Turkish" tvg-logo="452477.png", [COLOR olivedrab]MINIKA GO[/COLOR]
+http://www.iptvsaga.com/play/tv3/0055.m3u8
+#EXTINF:0836 tvg-id="9566.NTV SPOR HD.dsmart.com.tr" group-title="Turkish" tvg-logo="697989.png", [COLOR olivedrab]NTV SPOR[/COLOR]
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:0838 tvg-id="313.Sports TV.digiturk.com.tr" group-title="Turkish" tvg-logo="770866.png", [COLOR olivedrab]SPORTS TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0058.m3u8
+#EXTINF:0839 tvg-id="261.TRT Müzik.digiturk.com.tr" group-title="Music" tvg-logo="241448.png", [COLOR olivedrab]TRT Müzik HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0059.m3u8
+#EXTINF:0841 tvg-id="113.DREAMTURK.dsmart.com.tr" group-title="Music" tvg-logo="206910.png", [COLOR olivedrab]DreamTürk TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0060.m3u8
+#EXTINF:0845 tvg-id="147.Dream TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR olivedrab]Dream TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0069.m3u8
+#EXTINF:0845 tvg-id="9925.Number One Türk.dsmart.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR olivedrab]Number One HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0068.m3u8
+#EXTINF:0845 tvg-id="66.POWERTÜRK TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR olivedrab]POWERTÜRK HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0070.m3u8
+#EXTINF:0845 tvg-id="434.Power TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR olivedrab]POWER TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0071.m3u8
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Russian" tvg-logo="0000.png",[COLOR white]- Russian CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Россия HD[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/205/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]TB 1000 Русское кино[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/101/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Ностальгия[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/102/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]СТС Love[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/103/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]ТНТ-Comedy[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/104/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]STV[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/105/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]РБК-ТВ[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/106/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]СПОРТ ПЛЮС[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/107/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Sony Sci-Fi[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/110/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]История[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/111/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Пятый Канал[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/112/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Мир[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/113/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Моя Планета[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/117/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Наука 2.0[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/118/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Outdoor Channel[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/119/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]ТНТ[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/502/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Пятница[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/503/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Телеканал «Россия»[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/504/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Россия-Культура[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/505/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]СТС[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/506/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Россия-24[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/507/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]ТВ3[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/508/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]КИНО ПЛЮС[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/509/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]НТВ-ПЛЮС Спорт[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/123/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]НТВ-ПЛЮС Футбол[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/124/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Премьера[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/125/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Наше Кино[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/126/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Первый канал[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/127/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]РЕН ТВ[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/128/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Первый HD[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/204/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]24 ДОК[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/512/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Перец[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/513/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Домашний[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/514/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]ТНВ-Планета[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/515/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Наше новое кино[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/517/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]KHL[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/519/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]ТВЦ[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/520/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Москва 24[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/523/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]TV XXI[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/525/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Эгоист[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/526/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Телеканал Да Винчи[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/537/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Авто 24[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/538/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Eurosport 2[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/539/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]CBS Drama[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/542/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Детский мир[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/543/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]НТВ Мир[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/544/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Ю ТВ[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/534/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Eurosport 1[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/141/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Cartoon Network[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/143/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Extreme Sports[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/144/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Комедия[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/145/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Много ТВ[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/148/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Интересное ТВ[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/149/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Боец[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/150/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Русский Иллюзион[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/547/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Иллюзион +[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/548/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Еврокино[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/549/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Fox Russia[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/550/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Время[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/552/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Fox Life[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/553/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Дом Кино[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/154/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Paramount Comedy Russia[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/157/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Домашние Животные[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/158/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Охота и Рыбалка[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/159/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Надежда[/COLOR]
+http://en356.edem.tv/iptv/DBMSQBBVEBXNTU/556/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]ID Fashion HD[/COLOR]
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Hello TV HD[/COLOR]
+http://live.tvhello.ru/live/Stream1/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Luxury World[/COLOR]
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Мир[/COLOR]
+http://3.hls.bolshoe.tv/2/streaming/mir/tvrec/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Мир 24[/COLOR]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Новороссия TV HD[/COLOR]
+http://hls.goodgame.ru/hls/23154.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Антимайдан HD[/COLOR]
+http://hls.goodgame.ru/hls/6147_720.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]AnyDay 3D[/COLOR]
+http://streamer1.cdn.3dsmart.tv/hls/anyday.tv.3d/stream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]AnyDay HD[/COLOR]
+http://streamer1.cdn.3dsmart.tv/hls/anyday.tv.hd/stream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]HD Media 3D HD[/COLOR]
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Mute 3D[/COLOR]
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Russian" tvg-logo="00000000.png", [COLOR orangered]Mute HD[/COLOR]
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Dutch" tvg-logo="0000.png",[COLOR white]- NETHERLANDS CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]3ML[/COLOR]
+http://fms1.3ml.nl/hls-live/livepkgr/_definst_/liveevent/livetv.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]538 TV[/COLOR]
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]AT5[/COLOR]
+http://lb-rtvnh-live.streamgate.nl/at5/video/at5.smil/chunklist_w1802746158_b2500000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Brabant Radio[/COLOR]
+http://omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_vradio/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Brabant Televisie[/COLOR]
+http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]DTV[/COLOR]
+rtsp://live.streamone.nl/livestream/r8Dbk9aSb4
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]EDE TV[/COLOR]
+rtmp://live.streamone.nl/livestream/yEr2XzzAi311
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Flevoland[/COLOR]
+http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Fryslan TV[/COLOR]
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/KpnOmropLive.smil/chunklist_w1921133645_b400000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]GPTV (noordwest Friesland)[/COLOR]
+http://stream3.paystream.tv/live/test/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Omroep Gelderland[/COLOR]
+http://web.omroepgelderland.nl/live/livetv.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]HK13 TV[/COLOR]
+http://hk13live.playbackurl.com/hls/hk13live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Heusden[/COLOR]
+rtmp://live.streamone.nl/livestream/h3kXcf2yyam
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Klipkar TV[/COLOR]
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8?wowzasessionid=1551749186
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]L.O.O.W. Enkhuizen[/COLOR]
+rtmp://live.streamone.nl/livestream/fDa32BaPi9r3
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]LOOK TV (Schiedam)[/COLOR]
+rtmp://live.streamone.nl/livestream/k9SWoXi4zZj1
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]MerweTV[/COLOR]
+rtmp://fm-live.prostream.nl/merwertv/live
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]MLA TV[/COLOR]
+rtmp://live.streamone.nl/livestream/u2SioS02Af77
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]N1 (Nijmegen)[/COLOR]
+rtmp://live.streamone.nl/livestream/n1D8eGo3zY
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]NOOS[/COLOR]
+rtmp://cdn25.streampartner.nl:1935/detorenhberg/live
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]ORTS[/COLOR]
+rtmp://live.streamone.nl/livestream/s4fa9kmgzp
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]PIM[/COLOR]
+rtmp://live.streamone.nl/livestream/jD29DqaZA21P
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Radio Beverwijk[/COLOR]
+rtmp://84.22.97.59:80/beverwijk/studio
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTi TV Hilversum[/COLOR]
+rtmp://studio.rtihilversum.nl:7008/mytv/rtitv
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Kanaal30[/COLOR]
+rtmp://cdn22.streampartner.nl:80/dotinga00/livestream
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Dordrecht[/COLOR]
+rtmp://live.streamone.nl/livestream/r2Dg7AiHkp
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Drenthe[/COLOR]
+http://stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV LOGO[/COLOR]
+rtmp://live.rtvlogo.nl/rtvlogo/tv/livestream1
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Noordoost-Friesland[/COLOR]
+rtmp://highvolume02.streampartner.nl:1935/rtvnof/live
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV OOST[/COLOR]
+http://145.58.83.153/tv/smil:live.smil/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Purmerend[/COLOR]
+rtmp://wowza.pmedia74.kpnstreaming.nl/pi6atvlive/rtvpurm
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Seaport[/COLOR]
+rtmp://live.streamone.nl/livestream/c2SkaoDn1a
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Slingeland[/COLOR]
+rtmp://live.streamone.nl/livestream/jL2CdF9ZzerQ
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Totaal[/COLOR]
+rtmp://live.streamone.nl:1935/livestream/e2FmxC94rA
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]SALTO 1[/COLOR]
+http://195.169.148.218:8000/0000/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]SALTO 2[/COLOR]
+http://195.169.148.218:8000/0001/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Slotstad RTV[/COLOR]
+rtmp://mediaserv19.video-streams.nl:80/slotstadrtv/slotstadrtv
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Slos RTV[/COLOR]
+rtmp://live.streamone.nl/livestream/h73LV1zXh4
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Stein[/COLOR]
+rtmp://live.streamone.nl/livestream/uS8Cmdh711
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]STREEK TV[/COLOR]
+rtmp://cdn15.streampartner.nl:80/streektv/livestream
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]TV Ellef[/COLOR]
+rtmp://cdn22.streampartner.nl:1935/tvellef/livestream
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]TV Krimpenewaard[/COLOR]
+rtmp://live.streamone.nl/livestream/Rh3SaxOOi4CX
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]RTV Veluwezoom[/COLOR]
+http://stream.rtv-veluwezoom.nl/kk.ogg
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Weststellingwerf Centraal[/COLOR]
+rtmp://178.19.116.10:80/rws/centraaltv
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Westerwolde[/COLOR]
+rtmp://s6streampakket.com/Westerwolde/Westerwolde
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]WOS TV[/COLOR]
+rtmp://live.streamone.nl/livestream/u3DhA9TvBa
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]XITE[/COLOR]
+http://highvolume02.streampartner.nl:1935/vleugels/livestream/chunklist_w315074830.m3u8
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Zeeland Televisie[/COLOR]
+rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_1500k.sdp
+#EXTINF:0070 tvg-id="" group-title="Dutch" tvg-logo="",[COLOR orange]Zoetermeer FM[/COLOR]
+rtmp://kippingmultimediaal.nl:1935/live/ZFM1
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Czech" tvg-logo="0000.png",[COLOR white]- CZECH CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]ČT1[/COLOR]
+http://www.vikento.cz:8001
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]ČT2[/COLOR]
+http://www.vikento.cz:8002
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]ČT :D / ČT art[/COLOR]
+http://www.vikento.cz:8005
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]ČT24[/COLOR]
+http://www.vikento.cz:8015
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]ČT Sport[/COLOR]
+http://www.vikento.cz:8014
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Prima[/COLOR]
+http://www.vikento.cz:8004
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Prima Zoom[/COLOR]
+http://www.vikento.cz:8011
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Prima Cool[/COLOR]
+http://www.vikento.cz:8021
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Prima Love[/COLOR]
+http://www.vikento.cz:8019
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]NOVA[/COLOR]
+http://www.vikento.cz:8003
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]NOVA CINEMA[/COLOR]
+http://www.vikento.cz:8020
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]TV Barrandov[/COLOR]
+http://www.vikento.cz:8022
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Kino Barrandov[/COLOR]
+http://www.vikento.cz:8009
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Plus Barrandov[/COLOR]
+http://www.vikento.cz:8028
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Šlágr TV[/COLOR]
+http://www.vikento.cz:8013
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]TV Noe[/COLOR]
+http://www.vikento.cz:8017
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Retro[/COLOR]
+http://www.vikento.cz:8018
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]VH1 Classic[/COLOR]
+http://www.vikento.cz:8024
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Ocko Hit[/COLOR]
+http://www.vikento.cz:8016
+#EXTINF:0070 tvg-id="" group-title="Czech" tvg-logo="00000000.png", [COLOR gold]Ocko Gold[/COLOR]
+http://www.vikento.cz:8012
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Portuguese" tvg-logo="0000.png",[COLOR white]- PORTUGUESE CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]RTP 1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0029.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]RTP 2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0028.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]RTP 3[/COLOR]
+http://www.iptvsaga.com/play/tv3/0027.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]RTP Ãfrica[/COLOR]
+http://www.iptvsaga.com/play/tv3/0026.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]RTP Madeira[/COLOR]
+http://www.iptvsaga.com/play/tv3/0025.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]RTP Açores[/COLOR]
+http://www.iptvsaga.com/play/tv3/0024.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]RTP Memória[/COLOR]
+http://www.iptvsaga.com/play/tv3/0023.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]RTP Internacional[/COLOR]
+http://www.iptvsaga.com/play/tv3/0022.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]TVI HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR orange]TPA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0020.m3u8
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Spanish" tvg-logo="0000.png",[COLOR white]- SPANISH CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 1 (La1)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0019.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 2 (La2)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0018.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 24[/COLOR]
+http://www.iptvsaga.com/play/tv3/0017.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]MEGA HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0016.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]LA RED EN VIVO HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0015.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TV Galicia[/COLOR]
+http://www.iptvsaga.com/play/tv3/0014.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]LA SEXTA HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0013.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]ANTENA 3 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0012.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]Russia Today HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0011.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TELESUR[/COLOR]
+http://www.iptvsaga.com/play/tv3/0010.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]A3S HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]Euronews[/COLOR]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:0070 tvg-id="TVChile" group-title="Spanish" tvg-logo="",[COLOR gold]TV Chile[/COLOR]
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:0070 tvg-id="TVChile" group-title="Spanish" tvg-logo="",[COLOR gold]TV MÁS[/COLOR]
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:0070 tvg-id="TVN" group-title="Spanish" tvg-logo="",[COLOR gold]TVN HD[/COLOR]
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]MÉXICO TRAVEL CHANNEL[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]NAVARRA TV[/COLOR]
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]ONDALUZ SIERRA[/COLOR]
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]CONDAVISION[/COLOR]
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]EWTN[/COLOR]
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]Esperanza TV[/COLOR]
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]Alcance TV[/COLOR]
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]Almavision[/COLOR]
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]Lancelot TV[/COLOR]
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]RTS[/COLOR]
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]CANAL TRO[/COLOR]
+http://cdns840stu1010.multistream.net:80/canaltro2live/amlst:live/livestream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]ONDA LATINA TV[/COLOR]
+http://ondalatina_tv-lh.akamaihd.net:80/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]TELECAFÉ[/COLOR]
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]Real Madrid TV[/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR gold]Cablenoticias HD[/COLOR]
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/smil:cablenoticiastv.smil/chunklist_w1899933094_b1035000_slES.m3u8
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Music" tvg-logo="0000.png",[COLOR white]- BULGARIAN CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0070 tvg-id="bTV.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]bTV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0210.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="bTV.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]bTV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0236.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="NOVA.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]NOVA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0211.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="TV7.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]TV 7[/COLOR]
+http://www.iptvsaga.com/play/tv3/0212.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="" group-title="Bulgarian" tvg-logo="",[COLOR orangered]News 7[/COLOR]
+http://www.iptvsaga.com/play/tv3/0213.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="bTVComedy.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]bTV Comedy[/COLOR]
+http://www.iptvsaga.com/play/tv3/0214.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="bTVCinema.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]bTV Cinema[/COLOR]
+http://www.iptvsaga.com/play/tv3/0215.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="bTVAction.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]bTV Action[/COLOR]
+http://www.iptvsaga.com/play/tv3/0216.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="bTVLady.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]bTV Lady[/COLOR]
+http://www.iptvsaga.com/play/tv3/0217.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="BNT1.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]BNT 1 **broken[/COLOR]
+http://www.iptvsaga.com/play/tv3/0218.m3u8|User-Agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="Diema.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]Diema[/COLOR]
+http://www.iptvsaga.com/play/tv3/0219.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="KinoNova.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]Kino Nova[/COLOR]
+http://www.iptvsaga.com/play/tv3/0220.m3u8|User-agent=Lavf53.32.100
+#EXTINF:0070 tvg-id="DiemaFamily.bg" group-title="Bulgarian" tvg-logo="",[COLOR orangered]Diema Family[/COLOR]
+http://www.iptvsaga.com/play/tv3/0221.m3u8|User-agent=Lavf53.32.100
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Greek" tvg-logo="0000.png",[COLOR white]- GREEK CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0129.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0130.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT3[/COLOR]
+http://www.iptvsaga.com/play/tv3/0131.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ERT Promo[/COLOR]
+http://www.iptvsaga.com/play/tv3/0132.m3u8
+#EXTINF:0070 tvg-id="ant1.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]ANT1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0133.m3u8
+#EXTINF:0070 tvg-id="mega.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]MEGA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0134.m3u8
+#EXTINF:0070 tvg-id="Skai.gr" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Skai[/COLOR]
+http://www.iptvsaga.com/play/tv3/0135.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Zougla TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0136.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Tilesport[/COLOR]
+http://www.iptvsaga.com/play/tv3/0137.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Nea TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0138.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Mad TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0139.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]KRHTH TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0140.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Kontra TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0141.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Extra Channel[/COLOR]
+http://www.iptvsaga.com/play/tv3/0142.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]E TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0143.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]EBS[/COLOR]
+http://www.iptvsaga.com/play/tv3/0144.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]EBS Plus[/COLOR]
+http://www.iptvsaga.com/play/tv3/0145.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Blue Sky[/COLOR]
+http://www.iptvsaga.com/play/tv3/0146.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Astra TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0147.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]4E[/COLOR]
+http://www.iptvsaga.com/play/tv3/0148.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Omega[/COLOR]
+http://www.iptvsaga.com/play/tv3/0149.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]EPIRUS TV1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0150.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Makeleio WEB TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0151.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Messinia WEB TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0152.m3u8
+#EXTINF:0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Thrakinet[/COLOR]
+http://www.iptvsaga.com/play/tv3/0153.m3u8
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]- ASIAN CHANNELS[/COLOR]
+ftp://##
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV1HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000158&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV2HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000139&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV3HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000152&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV4HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000140&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV5HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000151&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV5+HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000160&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV6HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000159&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV7HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000141&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV8HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000150&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV9HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000142&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV10HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000143&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV12HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000144&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV14HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000145&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 东方卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000161&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 天津卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000162&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 山东卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000163&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 湖北卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000164&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 安徽卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000165&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 湖南卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000166&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 浙江卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000167&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 江苏卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000168&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 北京卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000169&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 重庆卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000170&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 黑龙江卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000171&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 广东卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000172&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 深圳卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000173&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 辽宁卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000137&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 四川卫视高清[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000138&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 金鹰纪实[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000134&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 北京纪实[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000135&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 上海纪实[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000136&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 高清影视HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000146&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 新视觉HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000147&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – ATV亚洲台[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000148&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 高清纪实[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000149&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 3D体验频道[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000153&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 凤凰资讯HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000154&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 凤凰卫视HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000155&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 凤凰香港HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000156&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – HKC电影一台HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000157&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – HKC电影一台HD[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000103&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 高清影视[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000102&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 中国电影[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000104&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV1[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000007&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV2[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000008&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV3[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000018&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV4[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000014&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV5[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000019&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV6[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000020&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV7[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000009&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV8[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000021&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV9[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000022&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV10[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000010&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV11[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000011&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV12[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000012&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV13[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000023&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV14[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000024&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV15[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000013&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – CCTV NEWS[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000016&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 中国气象频道[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000015&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 早期教育[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000083&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Asian" tvg-logo="0000.png",[COLOR white]平遥有线2 – 中学生[/COLOR]
+http://222.37.159.225:13160/playurl?playtype=live&amp;protocol=http&amp;accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&amp;programid=4200000130&amp;playtoken=31609AZAAAAZAZZ1&amp;verifycode=113775&amp;rate=raw&amp;auth=no
+#EXTINF:-800 tvg-id="noepg.epg" group-title="Music" tvg-logo="0000.png",[COLOR white]- MUSIC CHANNELS[/COLOR]
+ftp://##
+#EXTINF:0070 tvg-id="gotv.at" group-title="Music" tvg-logo="00000000.png", [COLOR red]gotv Music[/COLOR]
+http://www.iptvsaga.com/play/tv3/0009.m3u8
+#EXTINF:0044 tvg-id="alexberlin.de" group-title="Music" tvg-logo="00000000.png", [COLOR red]XITE.TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0008.m3u8
+#EXTINF:0044 tvg-id="alexberlin.de" group-title="Music" tvg-logo="00000000.png", [COLOR red]VOX Music HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0091.m3u8
+#EXTINF:3001 tvg-id="pophd.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Pop HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0075.m3u8
+#EXTINF:3001 tvg-id="pophd.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Dance HD [/COLOR]
+http://www.iptvsaga.com/play/tv3/0076.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Classic HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0077.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Eska Best HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0078.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Eska Party HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0079.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Eska Polo HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0080.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Eska Rock TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0081.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Eska TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0082.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Eska VOX[/COLOR]
+http://www.iptvsaga.com/play/tv3/0083.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Eska WAWA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0084.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Djing HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0085.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Djing Ibiza HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0086.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Djing Underground HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0087.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Djing Animation HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0088.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Djind DJS HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0089.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]Djing Classic HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0090.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="9001.png", [COLOR red]VEVO DE HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0007.m3u8
+#EXTINF:3002 tvg-id="vevousca1.mus" group-title="Music" tvg-logo="9001.png", [COLOR red]VEVO US/CA 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0006.m3u8
+#EXTINF:3003 tvg-id="vevousca2.mus" group-title="Music" tvg-logo="9001.png", [COLOR red]VEVO US/CA 2 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0005.m3u8
+#EXTINF:3004 tvg-id="vevousca3.mus" group-title="Music" tvg-logo="9001.png", [COLOR red]VEVO US/CA 3 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0004.m3u8
+#EXTINF:3005 tvg-id="onemusic1.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]ONE Music 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0003.m3u8
+#EXTINF:3006 tvg-id="onemusic2.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]ONE Music 2 UHD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0002.m3u8
+#EXTINF:3007 tvg-id="onemusicrus.mus" group-title="Music" tvg-logo="0000.png", [COLOR red]ONE Music Russia HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0001.m3u8
