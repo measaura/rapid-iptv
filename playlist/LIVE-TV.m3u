@@ -26,3 +26,6 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 
 #EXTINF:-1 tvg-logo="119_300.png" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Zy4HZQWPYgaD2Kwel6U5RX1YuG4TwAcwkof8iCFvVBJLNcUtzSFKNA" group-title="Others",TV Al Hijrah
 http://nx-cdn.mynexa.my/tvahlive/smil:tvah_hypptv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="DiGi&MF",NHK WORLD
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
