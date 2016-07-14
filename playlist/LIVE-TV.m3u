@@ -24,8 +24,15 @@ http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.aljazeera.com/mrItems/Assets/Images/NewArticle/a-j-e-overlay-copy.png" tvg-name="AL JAZEERA"  group-title="EGYPT",AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-logo="119_300.png" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Zy4HZQWPYgaD2Kwel6U5RX1YuG4TwAcwkof8iCFvVBJLNcUtzSFKNA" group-title="Others",TV Al Hijrah
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Zy4HZQWPYgaD2Kwel6U5RX1YuG4TwAcwkof8iCFvVBJLNcUtzSFKNA" group-title="Others",TV Al Hijrah
 http://nx-cdn.mynexa.my/tvahlive/smil:tvah_hypptv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="DiGi&MF",NHK WORLD
+#EXTINF:-1 tvg-id="EPG N/A" group-title="DiGi&MF",NHK WORLD
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="http://channels.roku.com/images/928fc6cf7cf947f1b3ea353fa228bc31-hd.jpg" group-title="DiGi&MF",ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png",BLOOMBERG ASIA
+http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
+
