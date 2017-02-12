@@ -114,7 +114,7 @@ http://sph.rastream.com/913fm?type=.mp3
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/kiss92.jpg", group-title="radio" radio="true", KISS 92FM
 http://sph.rastream.com/sph-kiss92?type=.mp3
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/yes933.jpg", group-title="radio" radio="true", YES 93.3FM
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/YES933.jpg", group-title="radio" radio="true", YES 93.3FM
 http://mediacorp.rastream.com/933fm?type=.mp3
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/warna.jpg", group-title="radio" radio="true", WARNA 94.2FM
