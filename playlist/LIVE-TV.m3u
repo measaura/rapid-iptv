@@ -102,5 +102,38 @@ http://astro4.rastream.com/jazz
 #EXTINF:-1,  group-title="radio" radio="true", ROCK.FM  
 http://astro4.rastream.com/rock
 
-#EXTINF:-1,  group-title="radio" radio="true", GOLD 90.5
-mms://a522.l11459052521.c114590.g.lm.akamaistream.net/D/522/114590/v0001/reflector:52521
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/ria897.jpg",  group-title="radio" radio="true", RIA 89.7FM
+http://mediacorp.rastream.com/897fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/gold905.jpg", group-title="radio" radio="true", GOLD 90.5FM
+http://mediacorp.rastream.com/905fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/hot913.jpg", group-title="radio" radio="true", HOT 91.3FM
+http://sph.rastream.com/913fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/kiss92.jpg", group-title="radio" radio="true", KISS 92FM
+http://sph.rastream.com/sph-kiss92?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/yes933.jpg", group-title="radio" radio="true", YES 93.3FM
+http://mediacorp.rastream.com/933fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/warna.jpg", group-title="radio" radio="true", WARNA 94.2FM
+http://mediacorp.rastream.com/942fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/class95.jpg", group-title="radio" radio="true", CLASS 95FM
+http://mediacorp.rastream.com/950fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/capital958.jpg", group-title="radio" radio="true", CAPITAL 95.8FM
+http://mediacorp.rastream.com/958fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/love972.jpg", group-title="radio" radio="true", LOVE 97.2FM
+http://mediacorp.rastream.com/972fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/987FM.jpg", group-title="radio" radio="true", FM 987
+http://mediacorp.rastream.com/987fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/lush995.jpg", group-title="radio" radio="true", LUSH 99.5FM
+http://mediacorp.rastream.com/995fm?type=.mp3
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/ufm.png", group-title="radio" radio="true", UFM 100.3
+http://sph.rastream.com/1003fm?type=.mp3
