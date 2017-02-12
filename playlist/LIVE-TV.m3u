@@ -101,3 +101,6 @@ http://astro4.rastream.com/jazz
  
 #EXTINF:-1,  group-title="radio" radio="true", ROCK.FM  
 http://astro4.rastream.com/rock
+
+#EXTINF:-1,  group-title="radio" radio="true", GOLD 90.5
+mms://a522.l11459052521.c114590.g.lm.akamaistream.net/D/522/114590/v0001/reflector:52521
