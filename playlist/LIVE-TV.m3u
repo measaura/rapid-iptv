@@ -36,3 +36,74 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png",BLOOMBERG ASIA
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 
+#EXTINF:-1  tvg-id="" radio="true" ,[COLOR yellow] TERENGGANU FM [/COLOR]
+http://218.208.228.62:8000/;stream.nsv
+ 
+#EXTINF:-1  tvg-id="" radio="true" ,[COLOR yellow] IKIM FM [/COLOR]
+http://50.7.96.210:8285/;stream.mp3
+ 
+#EXTINF:-1  tvg-id="" radio="true",[COLOR yellow] IKIM.FM 2nd link [/COLOR]
+http://50.7.96.210:8285/;stream.mp3:21
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] HOT FM [/COLOR]
+http://2343.live.streamtheworld.com/HOTFMAAC
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] HOT FM KELATE [/COLOR]
+http://2633.live.streamtheworld.com/HOTFMKELATEAAC
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] HOT FM TERANUNG [/COLOR]
+http://2173.live.streamtheworld.com/HOTFMTGANUAAC
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] SURIA FM [/COLOR]
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] THR GEGAR [/COLOR]
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] NASYID FM [/COLOR]
+http://radio.nasyidfm.com.my:8000/;stream.mp3
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] RED.FM [/COLOR]
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] MUZIK FM [/COLOR]
+http://69.197.60.122:8000/;stream.mp3
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] KLASIK NASIONAL [/COLOR]
+http://turbo.stream.my/live/mp4:rtm-ch010/playlist.m3u8
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] NASIONAL FM [/COLOR]
+http://turbo.stream.my/live/mp4:rtm-ch011/playlist.m3u8
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] BEST 104 [/COLOR]
+http://69.197.60.122:8000/;stream.mp3
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] HITZ.FM [/COLOR]
+http://astro1.rastream.com/hitz
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] LITE.FM [/COLOR]
+http://astro1.rastream.com/lite
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] MY.FM [/COLOR]
+http://astro1.rastream.com/myfm
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] MIX.FM [/COLOR]
+http://astro2.rastream.com/mix
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] SINAR.FM [/COLOR]
+http://astro2.rastream.com/sinar
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] ERA.FM [/COLOR]
+http://astro2.rastream.com/era
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] OPUS.FM [/COLOR]
+http://astro4.rastream.com/opus
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] GOLD.FM [/COLOR]
+http://astro4.rastream.com/gold
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] JAZZ.FM [/COLOR]
+http://astro4.rastream.com/jazz
+ 
+#EXTINF:-1 radio="true",[COLOR yellow] ROCK.FM [/COLOR]
+http://astro4.rastream.com/rock
