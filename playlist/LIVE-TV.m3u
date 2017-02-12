@@ -44,21 +44,9 @@ http://218.208.228.62:8000/;stream.nsv
  
 #EXTINF:-1,  tvg-id="" radio="true" ,[COLOR yellow] IKIM FM [/COLOR]
 http://50.7.96.210:8285/;stream.mp3
- 
-#EXTINF:-1,  tvg-id="" radio="true",[COLOR yellow] IKIM.FM 2nd link [/COLOR]
-http://50.7.96.210:8285/;stream.mp3:21
- 
-#EXTINF:-1, radio="true",[COLOR yellow] HOT FM [/COLOR]
-http://2343.live.streamtheworld.com/HOTFMAAC
- 
-#EXTINF:-1, radio="true",[COLOR yellow] HOT FM KELATE [/COLOR]
-http://2633.live.streamtheworld.com/HOTFMKELATEAAC
- 
-#EXTINF:-1, radio="true",[COLOR yellow] HOT FM TERANUNG [/COLOR]
-http://2173.live.streamtheworld.com/HOTFMTGANUAAC
- 
+
 #EXTINF:-1, radio="true",[COLOR yellow] SURIA FM [/COLOR]
-http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+http://starrfm.rastream.com/starrfm-suria
  
 #EXTINF:-1, radio="true",[COLOR yellow] THR GEGAR [/COLOR]
 http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
