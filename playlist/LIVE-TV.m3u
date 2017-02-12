@@ -42,7 +42,7 @@ http://ice1.somafm.com/groovesalad-128-mp3
 #EXTINF:-1, group-title="radio" radio="true", LITE FM JAKARTA
 http://live.indostreamserver.com:8800/litefm
 
-#EXTINF:-1,  tvg-id=""  group-title="radio" radio="true" , TERENGGANU FM  
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/terengganu-fm-image.jpg", tvg-id=""  group-title="radio" radio="true" , TERENGGANU FM  
 http://218.208.228.62:8000/;stream.nsv
  
 #EXTINF:-1,  tvg-id=""  group-title="radio" radio="true" , IKIM FM  
@@ -69,13 +69,13 @@ http://turbo.stream.my/live/mp4:rtm-ch010/playlist.m3u8
 #EXTINF:-1,  group-title="radio" radio="true", NASIONAL FM  
 http://turbo.stream.my/live/mp4:rtm-ch011/playlist.m3u8
  
-#EXTINF:-1,  group-title="radio" radio="true", BEST 104  
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/best104.jpg", group-title="radio" radio="true", BEST 104  
 http://69.197.60.122:8000/;stream.mp3
  
-#EXTINF:-1,  group-title="radio" radio="true", HITZ.FM  
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/Hitz-FM-Malaysia-Logo.jpg", group-title="radio" radio="true", HITZ.FM  
 http://astro1.rastream.com/hitz
  
-#EXTINF:-1,  group-title="radio" radio="true", LITE.FM  
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/Logo_Of_LiteFM.svg", group-title="radio" radio="true", LITE.FM  
 http://astro1.rastream.com/lite
  
 #EXTINF:-1,  group-title="radio" radio="true", MY.FM  
@@ -87,10 +87,10 @@ http://astro2.rastream.com/mix
 #EXTINF:-1,  group-title="radio" radio="true", SINAR.FM  
 http://astro2.rastream.com/sinar
  
-#EXTINF:-1,  group-title="radio" radio="true", ERA.FM  
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/era_fm.jpg", group-title="radio" radio="true", ERA.FM  
 http://astro2.rastream.com/era
  
-#EXTINF:-1,  group-title="radio" radio="true", OPUS.FM  
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/measaura/rapid-iptv/master/icons/opus.png", group-title="radio" radio="true", OPUS.FM  
 http://astro4.rastream.com/opus
  
 #EXTINF:-1,  group-title="radio" radio="true", GOLD.FM  
