@@ -36,10 +36,10 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png",BLOOMBERG ASIA
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 
-#EXTINF:-1 radio="true" ,[COLOR yellow] TERENGGANU FM [/COLOR]
+#EXTINF:-1 radio="true" ,TERENGGANU FM
 http://218.208.228.62:8000/;stream.nsv
  
-#EXTINF:-1 radio="true" ,[COLOR yellow] IKIM FM [/COLOR]
+#EXTINF:-1 radio="true" ,IKIM FM
 http://50.7.96.210:8285/;stream.mp3
  
 #EXTINF:-1  tvg-id="" radio="true",[COLOR yellow] IKIM.FM 2nd link [/COLOR]
