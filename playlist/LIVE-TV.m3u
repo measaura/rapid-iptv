@@ -39,6 +39,9 @@ http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 #EXTINF:-1,tvg-logo="http://image.noelshack.com/minis/2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
 
+#EXTINF:-1, group-title="radio" radio="true", LITE FM JAKARTA
+http://live.indostreamserver.com:8800/litefm
+
 #EXTINF:-1,  tvg-id=""  group-title="radio" radio="true" , TERENGGANU FM  
 http://218.208.228.62:8000/;stream.nsv
  
